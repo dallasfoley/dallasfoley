@@ -5,6 +5,5 @@
 - ➗ I enjoy thinking abstractly to solve problems
 - 🌱 I’m currently learning Next.js and Tailwind CSS
 - ✉️ You can reach me at dallastfoley@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: CSS... grr
 
